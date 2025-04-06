@@ -1,0 +1,5 @@
+../Src/utr.c:10:6:UartInit	16	static
+../Src/utr.c:51:6:UartPutch	16	static
+../Src/utr.c:63:5:UartGetch	4	static
+../Src/utr.c:72:6:UartPuts	24	static
+../Src/utr.c:77:6:UartGets	24	static

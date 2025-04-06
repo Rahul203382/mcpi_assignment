@@ -1,0 +1,5 @@
+../Src/utr.c:10:6:UartInit	4
+../Src/utr.c:51:6:UartPutch	2
+../Src/utr.c:63:5:UartGetch	2
+../Src/utr.c:72:6:UartPuts	2
+../Src/utr.c:77:6:UartGets	2
